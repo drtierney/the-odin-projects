@@ -1,9 +1,18 @@
 # The Odin Projects
 Contains a summary of completed projects as part of [The Odin Project](https://www.theodinproject.com/)  
 
-<!-- START doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Projects
 
-<!-- END doctoc -->
+- [Foundations](#foundations)
+  - [Practice Git Basics](#practice-git-basics)
+  - [Google Homepage](#google-homepage)
+  - [Rock Paper Scissors](#rock-paper-scissors)
+  - [Etch-a-Sketch](#etch-a-sketch)
+  - [Calculator](#calculator)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Foundations
 ### Practice Git Basics
