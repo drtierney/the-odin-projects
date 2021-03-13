@@ -1,5 +1,8 @@
 # The Odin Projects
-Contains a summary of completed projects as part of [The Odin Project](https://www.theodinproject.com/)
+Contains a summary of completed projects as part of [The Odin Project](https://www.theodinproject.com/)  
+
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Foundations
 ### Practice Git Basics
